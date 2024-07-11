@@ -8,7 +8,7 @@ int main(){
     bool e;
     cin >> a >> b >> c >> d >> e;
 
-    cout << a <<  " " << b << " " << c << " " << d << " " << e << endl;
+    cout << a <<  b << c << d << e;
 
     std::cout << "Size of char: " << sizeof(char) << " byte(s)" << std::endl;
     std::cout << "Size of int: " << sizeof(int) << " byte(s)" << std::endl;
